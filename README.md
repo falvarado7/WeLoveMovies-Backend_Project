@@ -1,4 +1,4 @@
-# WeLoveMovies Backend & API
+# WeLoveMovies Backend
 The backend and API of WeLoveMovies facilitates storage and delivery of WeLoveMovies' movies, theaters, and reviews data. 
 
 Completion of this Thinkful assignment required:
